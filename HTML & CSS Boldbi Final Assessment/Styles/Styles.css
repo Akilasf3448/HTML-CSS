@@ -1,0 +1,299 @@
+
+ #header{
+     position: fixed;
+     background-color:rgb(230, 237, 240);
+     width: 100%;
+ }
+ #bold{
+     float :left;
+    
+ }
+ #bi{
+     float: left;
+    padding-left: 20rem;
+ }
+#page1{
+    background-color:rgb(230, 237, 240);
+}
+#firstul{
+    background-color:rgb(230, 237, 240);
+   
+}
+#icon{
+    
+    display: inline-block;
+    padding: 15px 15px ;
+    
+}
+li:hover{
+    background-color: gray;
+    padding-left: 15px;
+}
+#firstpage{
+    background-color:whitesmoke;
+    background-image: url("../Images/Vector-1.png");
+    background-repeat: no-repeat;
+    height: 700px;
+    padding-top: 10%;
+}
+#first{
+    margin-left: 100px;
+}
+#callsalesimage{
+    width: 60px;
+    height: 55.11px;
+}
+#callsales{
+    color: #283A5E;
+    font-size: 25px ;
+    font-family: sans-serif;
+    padding: 0px 0px 17px;
+}
+#supportimage{
+    width: 60px;
+    height: 55.11px;
+}
+#callsalesparagraph{
+    color: #3c4d6f;
+    font-size: 16px ;
+    font-family: sans-serif;
+}
+#getsupport{
+text-decoration: none;
+color: orangered;
+font-size: 20px;
+}
+#supportenquiry{
+    color: #283A5E;
+    font-size: 25px ;
+    font-family: sans-serif;
+    padding: 0px 0px 17px;
+}
+#supportparagraph{
+    color: #3c4d6f;
+    font-size: 16px ;
+    font-family: sans-serif;
+}
+#second{
+
+padding: 20px;
+width: 20%;
+height: 90%;
+}
+#form
+{
+ text-align: center;
+}
+#formnextline{
+text-align: center;
+color: #283A5E;
+
+}
+#inputdetails{
+   
+text-align: justify; 
+column-width: 35%;
+}
+#Termsconditions{
+text-decoration: none;
+color: orangered;
+
+}
+#submitbutton{
+background-color: orangered;
+ width: 85%;
+ height: 8%;
+ color: white; 
+ font-size: 20px;
+ 
+}
+#first{
+    color: #283A5E;
+float:left;
+width: 50%;
+}
+#second{
+color: #283A5E;
+width: 40%;
+float: left;
+background-color: white;
+font-size: 15px;
+}
+
+#officelocation
+{
+    color: #283a5e;
+    font-size: 36px;
+   font-family: 'CarosBold',sans-serif ;
+    left:auto;
+}
+*{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+ .column{
+        float: left;
+        width: 30%;
+        padding: 10px;
+ }
+ .row{
+     margin: 50px 50px;
+ }
+ .row::after{
+     content : "";
+     display: table;
+     clear: both;
+ }
+
+ .card{
+     border-radius: 10px;
+     height: 400px;
+     padding: 16px;
+     text-align: center;
+     border: 1px solid gray;
+ }
+ #hq{
+     color: #283A5E;
+     font-size: 20px;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+ }
+ #hq1{
+    color: #283A5E;
+    font-size: 16px;
+    font-family:sans-serif;
+
+ }
+ #ey{
+    color: #283A5E;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#ey1{
+   color: #283A5E;
+   font-size: 16px;
+   font-family:sans-serif;
+
+}
+#ma{
+    color: #283A5E;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#ma1{
+   color: #283A5E;
+   font-size: 16px;
+   font-family:sans-serif;
+
+}
+#ki{
+    color: #283A5E;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#ki1{
+   color: #283A5E;
+   font-size: 16px;
+   font-family:sans-serif;
+
+}
+#ka{
+    color: #283A5E;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#ka1{
+   color: #283A5E;
+   font-size: 16px;
+   font-family:sans-serif;
+
+}
+.us{
+    position: relative;
+    top: 10px;
+    
+    
+
+}
+
+ 
+ 
+ #followus{
+     color: #283A5E;
+     font-family: sans-serif;
+     font-size: 20px;
+   
+ }
+
+ 
+
+#footerlogo{
+   margin-left: 10%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1500px;
+    margin: auto;
+}
+ul{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: #283A5E;
+}
+h4{
+    color: #283A5E;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+a:hover{
+    color: orangered;
+}
+
+.footer{
+padding: 70px 0;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+}
+#f1{
+    float: left;
+    width: 70%;
+}
+#f2{
+    float: right;
+    width: 70%;
+}
+body{
+    background-image: url("../Images/boldbi_chat_Icon.svg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h5{
+    color: gray;
+}
+
